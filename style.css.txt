@@ -1,2 +1,0 @@
-/* No custom CSS needed, Tailwind CSS handles all styling directly in HTML. */
-/* This file is kept for structural completeness. */
